@@ -1,4 +1,4 @@
-# communityparrot
+# How to Solve Missing Firmware
 
 Olá amiguinhos, no tutorial de hoje vou ajuda-los a resolver o problema de firmware nas placas da nossa quirida amd/intel.
 
